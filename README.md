@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# EduSite | Educational Website
+
+## Live Demo
+### [Click Here](https://edusite-bd.netlify.app/)
+
+<br>
+<br>
+
+
+## Features
+-HTML, CSS, Bootstrap
+-JavaScript, React Bootstrap, React Router
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
